@@ -1,10 +1,3 @@
-<<<<<<< HEAD
----
-title: "README.md"
-author: "Sharon Francisco"
-date: "April 18, 2016"
-output: md_document
----
 
 # epiphanyXLvba
 
