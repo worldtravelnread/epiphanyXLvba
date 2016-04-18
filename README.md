@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README.md"
 author: "Sharon Francisco"
@@ -44,3 +45,7 @@ is to make VLOOKUP formulas easier to read.
 
 
 
+=======
+# epiphanyXLvba
+Excel VBA code to clean BCMS data
+>>>>>>> c3e97367fed2e2a2d03091fc0e71ab2023a8cf58
