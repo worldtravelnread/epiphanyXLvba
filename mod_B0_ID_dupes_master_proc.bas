@@ -1,7 +1,7 @@
-Attribute VB_Name = "mod_B_ID_dupes_master_proc"
+Attribute VB_Name = "mod_B0_ID_dupes_master_proc"
 
 
-Sub B_ID_dupes_master_proc()
+Sub B0_ID_dupes_master_proc()
 
     'This procedure calls all the individual procedures
     'needed to identify duplicate records and place
